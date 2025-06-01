@@ -1,0 +1,13 @@
+Direct Mode Description
+Failed to save settings
+Global Mode Description
+Port settings saved
+Rule Mode Description
+Saving...
+TCP Concurrency
+TCP ConcurrencyWhen accessing a web page, DNS resolution generally results in multiple IP addresses.
+Update via proxy
+Whether to follow nameserver policy
+theme.dark
+theme.light
+theme.system
